@@ -1,4 +1,6 @@
-# ESP32Radio-V2 - Arduino IDE friendly version
+# ESP32Radio - Arduino IDE friendly version
+## Based on ESP32Radio-V2 of 03-nov-2022
+
 New version of the well known ESP32 Radio.  Now optional I2S output!
 - Compile time configuration in config.h.
 - Do not forget to upload the data directory to the ESP32.
