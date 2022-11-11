@@ -148,8 +148,6 @@ bool VS1053::testComm ( const char *header )
                vstype[r1] ) ;
     //okay = false ;                                    // Standard codecs not fully supported
   }
-
-  okay = true;
   return ( okay ) ;                                     // Return the result
 }
 
