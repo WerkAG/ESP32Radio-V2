@@ -4,14 +4,15 @@
 // Configuration definition for your particular set-up.                                             *
 //***************************************************************************************************
 //
-#define NAME "AC_Radio1"                                  // Define name of the radio, also AP SSID
+#define NAME "ESP32Radio"                                 // Define name of the radio, also AP SSID
                                                           // Default is "ESP32-Radio"
+
 //#define SDCARD                                          // Experimental: For SD card support (reading MP3-files)
 //#define LOAD_VS1053PATCH                                // Load flac patch, does not work with all boards, try it
 
 //#define ETHERNET                                        // For wired Ethernet (WT32-ETH-01 or similar)
 
-#define FIXEDWIFI "Aldeao WF1/1928374650AC"             // Add a fixed SSID to the list (WiFi only)
+#define FIXEDWIFI "MY_SSID/MY_PASS"             // Add a fixed SSID to the list (WiFi only)
 
 // Define (just one) type of MP3/AAC decoder
 #define DEC_VS1053                                        // Hardware decoder for MP3, AAC, OGG
