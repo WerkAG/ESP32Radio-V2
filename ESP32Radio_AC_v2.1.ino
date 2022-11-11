@@ -147,7 +147,7 @@
 // Note that the password of an AP must be at least as long as 8 characters.
 // Also used for other naming.
 #ifndef NAME                                              // Name may be defined in config.h
-  #define NAME            "AC-Radio"
+  #define NAME            "ESP32-Radio"
 #endif
 #define MAXPRESETS        200                             // Max number of presets in preferences
 #define MAXMQTTCONNECTS   5                               // Maximum number of MQTT reconnects before give-up
