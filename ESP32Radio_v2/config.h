@@ -12,7 +12,7 @@
 
 //#define ETHERNET                                        // For wired Ethernet (WT32-ETH-01 or similar)
 
-#define FIXEDWIFI "Aldeao WF1/1928374650AC"             // Add a fixed SSID to the list (WiFi only)
+#define FIXEDWIFI "Aldeao WF1/XXXXXXXXXXXXXX"             // Add a fixed SSID to the list (WiFi only)
 
 // Define (just one) type of MP3/AAC decoder
 #define DEC_VS1053                                        // Hardware decoder for MP3, AAC, OGG
