@@ -44,7 +44,7 @@
 // ESP32dev Signal  Wired to LCD        Wired to VS1053      AI Audio board    Wired to the rest
 // -------- ------  --------------      -------------------  ---------------   ------------------------
 // GPIO32           -                   pin 1 XDCS           I2C Clock
-// GPIO33           -                   pin 1 XDCS           I2C Data
+// GPIO33           -                   -                    I2C Data          TFT Backlight Control
 // GPIO5            -                   pin 2 XCS            KEY 6             -
 // GPIO4            -                   pin 4 DREQ           AMPLIFIER_ENABLE  -
 // GPIO2            pin 3 D/C or A0     -                    SPI_MISO          -
