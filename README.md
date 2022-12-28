@@ -16,7 +16,7 @@ Updates:
 - 14-apr-2022: Add FIXEDWIFI in config.h to simplify WiFi set-up.
 - 15-apr-2022: Redesigned station selection.
 - 25-apr-2022: Add support for WT32-ETH0 (wired Ethernet).
-- 04-may-2022: OLED with Wire library, should work with Heltec-WIfi board.
+- 04-may-2022: OLED with Wire library, should work with Heltec-WIfi board.<br>
 
-Arduino Libs:
+<br>Arduino Libs:<br>
 You will need some Arduino libraries included on the Arduino Libs folder.
