@@ -1,5 +1,5 @@
 # ESP32Radio - Arduino IDE friendly version
-## Based on ESP32Radio-V2 of 03-nov-2022
+## Based on ESP32Radio-V2 of 03-nov-2022, from Edzelf
 
 New version of the well known ESP32 Radio.  Now optional I2S output!
 - Compile time configuration in config.h.
@@ -17,3 +17,6 @@ Updates:
 - 15-apr-2022: Redesigned station selection.
 - 25-apr-2022: Add support for WT32-ETH0 (wired Ethernet).
 - 04-may-2022: OLED with Wire library, should work with Heltec-WIfi board.
+
+Arduino Libs:
+You will need some Arduino libraries included on the Arduino Libs folder.
